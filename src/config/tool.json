@@ -1,0 +1,47 @@
+{
+  "kind": "calculator",
+  "heading": "Which tests does my well need?",
+  "sub": "Answer a few questions about your well and household. Get a prioritized testing plan built from EPA and CDC guidance.",
+  "fields": [
+    { "id": "wellAge", "label": "How old is your well?", "type": "select", "options": [
+      { "label": "Less than 5 years", "value": 1 },
+      { "label": "5-20 years", "value": 2 },
+      { "label": "More than 20 years", "value": 3 },
+      { "label": "Not sure", "value": 0 }
+    ]},
+    { "id": "lastBacteriaTest", "label": "When was this well last tested for bacteria?", "type": "select", "options": [
+      { "label": "Within the last year", "value": 1 },
+      { "label": "1-3 years ago", "value": 2 },
+      { "label": "More than 3 years ago", "value": 3 },
+      { "label": "Never", "value": 0 }
+    ]},
+    { "id": "infantPregnant", "label": "Does an infant, or someone pregnant or nursing, drink this water?", "type": "select", "options": [
+      { "label": "No", "value": 0 },
+      { "label": "Yes", "value": 1 }
+    ]},
+    { "id": "tasteOdorColorChange", "label": "Any recent change in taste, odor, or color?", "type": "select", "options": [
+      { "label": "No", "value": 0 },
+      { "label": "Yes", "value": 1 }
+    ]},
+    { "id": "floodingConstruction", "label": "Flooding or nearby construction recently?", "type": "select", "options": [
+      { "label": "No", "value": 0 },
+      { "label": "Yes", "value": 1 }
+    ]},
+    { "id": "arsenicRadonConcern", "label": "Are arsenic or radon known concerns in your area?", "type": "select", "options": [
+      { "label": "Not sure", "value": 0 },
+      { "label": "No", "value": 1 },
+      { "label": "Yes", "value": 2 }
+    ]}
+  ],
+  "outputs": [
+    { "id": "testNow", "label": "Test now" },
+    { "id": "testThisYear", "label": "Test this year" },
+    { "id": "testEvery3to5", "label": "Test every 3-5 years" }
+  ],
+  "statuses": [
+    { "id": "ok", "label": "Routine schedule fine", "tone": "ok" },
+    { "id": "warn", "label": "Testing due", "tone": "warn" },
+    { "id": "bad", "label": "Test now", "tone": "bad" }
+  ],
+  "disclaimer": "General educational guidance based on EPA and CDC recommendations for private wells - not a substitute for a state-certified laboratory or your local health department. Interpret any elevated result with a certified lab."
+}
