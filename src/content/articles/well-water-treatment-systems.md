@@ -2,7 +2,10 @@
 title: "Well water treatment systems: match the fix to the problem"
 description: "Well water treatment systems: match the fix to the problem"
 keyword: "well water treatment systems"
-publishDate: 2026-07-12
+publishDate: 2026-07-13
+updatedDate: 2026-07-13
+author: "The WellWater HQ Team"
+draft: false
 ---
 
 Well water treatment systems: match the fix to the problem
@@ -45,7 +48,7 @@ Here is the decision table we use in the field. Costs are approximate installed 
 | Arsenic         | Lab result over 10 ug/L                           | Reverse osmosis or adsorptive media                                    | $400 to $3,000                 |
 | Sediment        | Cloudy water, grit, clogged aerators              | Spin down plus cartridge sediment filter                               | $100 to $700                   |
 
-![](/media/cdf26859fdb27039c5907bc4d6d4a4d18a90ab4a.png)
+![](media/cdf26859fdb27039c5907bc4d6d4a4d18a90ab4a.png)
 
 *Figure: which treatment technology handles which contaminant, approximate guide, 2026.*
 
