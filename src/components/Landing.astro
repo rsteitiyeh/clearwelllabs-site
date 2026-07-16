@@ -8,7 +8,6 @@
 import site from '../../site.config.json';
 import Base from '../layouts/Base.astro';
 import Tool from './Tool.astro';
-const ls = site.lemonsqueezy.checkoutUrl;
 ---
 <Base
   title="Well Water Testing: What to Test, When & Why | WellWater HQ"
@@ -147,7 +146,7 @@ const ls = site.lemonsqueezy.checkoutUrl;
 
     <section id="handbook" class="section offer">
       <div>
-        <p class="eyebrow light">Go deeper - $19</p>
+        <p class="eyebrow light">Go deeper - free</p>
         <h2>The Complete Well Water Handbook</h2>
         <p>The checklist tells you what to test. The handbook walks you through everything after the results arrive.</p>
         <ul class="check-list on-dark">
@@ -156,12 +155,15 @@ const ls = site.lemonsqueezy.checkoutUrl;
           <li>Match filtration to confirmed results - UV, RO, softeners, carbon, and what each treats</li>
           <li>Worksheets: a testing log and a treatment decision tree</li>
         </ul>
-        <a class="btn" href={ls}>Get the Handbook - $19</a>
-        <p class="micro on-dark">Secure checkout - instant PDF - 30-day refund, no questions asked</p>
+        <form class="email" data-subscribe method="post">
+          <label class="sr" for="email3">Email address</label>
+          <input id="email3" name="fields[email]" type="email" required placeholder="you@example.com" />
+          <button type="submit">Send Me the Free Handbook</button>
+        </form>
+        <p class="micro on-dark">Free. No spam. Unsubscribe anytime.</p>
       </div>
       <div class="glass price">
-        <p>Digital handbook</p>
-        <strong><sup>$</sup>19</strong>
+        <p>Free digital handbook</p>
         <p class="price-sub">From lab report to fixed water - step by step</p>
       </div>
     </section>
@@ -179,7 +181,6 @@ const ls = site.lemonsqueezy.checkoutUrl;
     </section>
 
     <section id="about" class="section byline">
-      <div class="avatar">{'{{AUTHOR_PHOTO}}'}</div>
       <div>
         <p class="eyebrow">Written & reviewed by</p>
         <h2>{site.author.name}</h2>
@@ -206,15 +207,15 @@ const ls = site.lemonsqueezy.checkoutUrl;
       <p class="eyebrow light">Not sure where to start?</p>
       <h2>Start with the free test selector.</h2>
       <p>A couple minutes gives you a prioritized plan - not a sales pitch.</p>
-      <div class="actions"><a class="btn" href="#tool">Open the Free Test Selector</a><a class="text-link" href="#handbook">Get the $19 Handbook -></a></div>
+      <div class="actions"><a class="btn" href="#tool">Open the Free Test Selector</a><a class="text-link" href="#handbook">Get the free handbook -></a></div>
     </section>
   </main>
 
   <footer>
     <a class="brand" href="#top"><span class="drop"></span>WellWater <b>HQ</b></a>
-    <nav><a href="#tool">Test Selector</a><a href="#schedule">Free Schedule</a><a href="#handbook">Handbook</a><a href="/privacy/">Privacy</a><a href="/terms/">Terms</a></nav>
-    <p>WellWater HQ is reader-supported and may earn commissions from qualifying purchases through links on this site - it never changes what we recommend.</p>
-    <small>{site.legalEntity} - (c) 2026 WellWater HQ</small>
+    <nav><a href="#tool">Test Selector</a><a href="#schedule">Free Schedule</a><a href="#handbook">Handbook</a><a href="/about/">About</a><a href="/contact/">Contact</a><a href="/privacy/">Privacy</a><a href="/terms/">Terms</a><a href="/disclosure/">Disclosure</a><a href="/editorial/">Editorial</a></nav>
+    <p>WellWater HQ is reader-supported and may earn commissions from qualifying purchases through links on this site - it never changes what we recommend. See our <a href="/disclosure/">affiliate disclosure</a>.</p>
+    <small>© 2026 {site.BRAND}</small>
   </footer>
 </Base>
 

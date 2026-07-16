@@ -2,14 +2,20 @@
   "SITE": "https://wellwaterhq.com",
   "BRAND": "WellWater HQ",
   "niche": "05-well-water",
-  "stealth": true,
+  "stealth": false,
   "toolArchetype": "calculator",
-  "mailerlite": { "formAction": "https://assets.mailerlite.com/jsonp/PLACEHOLDER/forms/subscribe" },
-  "lemonsqueezy": { "checkoutUrl": "https://PLACEHOLDER.lemonsqueezy.com/checkout" },
+  "mailerlite": {
+    "groupId": "192830516209125317"
+  },
   "cfBeaconToken": "",
-  "magnet": { "file": "/downloads/well-testing-schedule.pdf", "doneMessage": "You're in - the Well Owner's Testing Schedule is downloading now." },
-  "author": { "name": "the WellWater HQ team (Trilot)", "bio": "WellWater HQ is published by the Trilot team. We build free, fact-checked guides, tools, and study resources, verified against the primary sources they cover. More at https://trilot.com." },
-  "legalEntity": "Trilot LLC",
+  "magnet": {
+    "file": "/downloads/well-testing-schedule.pdf",
+    "doneMessage": "You're in - the Well Owner's Testing Schedule is downloading now."
+  },
+  "author": {
+    "name": "WellWater HQ",
+    "bio": "WellWater HQ publishes free private well water guides and testing tools, grounded in EPA and state health department standards."
+  },
   "comingSoon": {
     "promise": "Know exactly what's in your well water. Free, source-cited testing guidance — coming soon.",
     "captureLabel": "Send me the free testing schedule"
@@ -21,5 +27,8 @@
     "accent2": "#EE9D3D",
     "headingFont": "'Space Grotesk', 'Trebuchet MS', sans-serif",
     "bodyFont": "'IBM Plex Sans', system-ui, sans-serif"
+  },
+  "ga4": {
+    "measurementId": ""
   }
 }
