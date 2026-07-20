@@ -1,6 +1,6 @@
 ---
 title: "Best sediment filter for well water: a sizing guide"
-description: ""
+description: "The best sediment filter for well water is sized to your flow rate and sediment load, not picked by brand. Most wells do well with a 5-micron cartridge in a 4."
 keyword: "best sediment filter for well water"
 publishDate: 2026-07-17
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Shower filter for well water: what it can and cannot do"
-description: ""
+description: "A shower filter for well water can reduce iron and hydrogen sulfide odor at the showerhead, and it can strip chlorine if your well runs a chlorination or"
 keyword: "shower filter for well water"
 publishDate: 2026-07-17
 ---

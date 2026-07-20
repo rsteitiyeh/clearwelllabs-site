@@ -1,6 +1,6 @@
 ---
 title: "Well water inspection cost: what to expect in 2026"
-description: ""
+description: "A well water inspection costs $150 to $900 in 2026, with most homeowners paying around $450. A basic visual inspection with flow-rate testing runs $150 to"
 keyword: "well water inspection cost"
 publishDate: 2026-07-19
 ---
