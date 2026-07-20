@@ -8,8 +8,6 @@ publishDate: 2026-07-17
 <!-- QA info-gain: (1) one merged spec table covering pH range, iron ppm ceiling, and media lifespan across all three iron-removal technologies, most ranking pages cover only one technology in isolation; (2) a spec-sheet checklist tied to real control-valve GPM ratings (Fleck 5600SXT, 2510SXT) so a buyer can verify a listing's claims instead of trusting a review ranking alone. -->
 <!-- QA humanizer tell-audit: cut a rule-of-three adjective list in the pH section; tightened three separate cost paragraphs into one table; removed a generic "future of water treatment" closer and replaced it with a specific pricing comparison. -->
 
-# Best iron filter for well water: a spec-based shortlist
-
 By the WellWater HQ team
 
 There is no single best iron filter for every well. The right choice depends on how much iron is in your water, whether it is ferrous, ferric, or bacterial iron, and your water's pH. Three technologies cover nearly all residential cases: air injection oxidation, manganese greensand, and solid catalytic media like Filox or Pro-OX.
@@ -79,5 +77,3 @@ Neither is universally better. Air injection needs pH 8.0 or higher and handles 
 Yes. Penn State Extension and most water treatment dealers recommend a lab test to confirm iron form and concentration before you buy, since a filter sized for the wrong ppm range or pH will underperform no matter how good the brand is.
 
 Bottom line: match the technology to your lab result and pH before you compare brands or star ratings. A correctly sized $1,500 air injection system will consistently outperform an oversold $4,000 unit fighting water chemistry it wasn't built for.
-
-Written by the WellWater HQ team. Updated July 15, 2026.

@@ -8,8 +8,6 @@ publishDate: 2026-07-17
 <!-- QA info-gain: (1) the point most shower filter roundups skip entirely: raw well water usually has no chlorine or chloramine to remove in the first place, since it isn't municipally treated, so a filter's chlorine-removal claim is often irrelevant unless the well runs a chlorination or shock system; (2) a direct explanation of the KDF-85 redox reaction that actually matters for wells (hydrogen sulfide and iron) instead of the KDF-55 chlorine story most guides copy from city-water content. -->
 <!-- QA humanizer tell-audit: cut a "whether you're dealing with X or Y" construction; removed a generic "it's important to note" before the NSF paragraph; shortened a three-sentence run explaining redox chemistry down to one plain sentence. -->
 
-# Shower filter for well water: what it can and cannot do
-
 By the WellWater HQ team
 
 A shower filter for well water can reduce iron and hydrogen sulfide odor at the showerhead, and it can strip chlorine if your well runs a chlorination or shock system. It cannot soften hard water, remove bacteria, or fix staining at its source. Most shower filter marketing is written for city water and doesn't translate directly to a private well.
@@ -72,5 +70,3 @@ Only as a short-term or single-bathroom fix for mild odor. If iron, hardness, or
 Check whether your well runs a chlorination or shock-chlorination system. If it doesn't, raw groundwater has no chlorine present, and a filter's chlorine-removal claim won't be doing meaningful work in your shower.
 
 Bottom line: a shower filter is worth the cost for mild sulfur odor at one fixture, using KDF-85 media specifically, not a general "chlorine removal" cartridge built for city water. For hardness, whole-house iron, or bacteria, it's the wrong tool.
-
-Written by the WellWater HQ team. Updated July 15, 2026.

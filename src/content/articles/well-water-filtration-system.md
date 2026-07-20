@@ -75,5 +75,3 @@ Generally no. Standard sediment, iron, and carbon filtration are not certified f
 Clarity is not the same as safety. Nitrate, arsenic, and bacteria can be present in water that looks and tastes fine. Rely on a certified lab test rather than appearance, and retest annually even after installing a filtration system.
 
 <!-- Humanizer tell-audit: draft repeated "it's important to" framing twice in the maintenance section and used a vague "experts recommend" line without naming a source. Rewrite cut both, attributed every claim to EPA or a named cost source, and added the operator note about iron testing four times over threshold. Final scan confirmed zero em dashes and zero en dashes. -->
-
-Written by the WellWater HQ team. Updated July 14, 2026.
