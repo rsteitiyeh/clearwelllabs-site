@@ -8,8 +8,6 @@ publishDate: 2026-07-19
 <!-- QA info-gain: (1) a direct breakdown of what separates a $200 visual inspection from an $800 comprehensive one, most cost guides give one blended number; (2) the EPA's own conditions-to-contaminants table applied to inspection scope, so a reader can tell which add-on tests actually apply to their situation instead of buying a blanket "full panel" every time. -->
 <!-- QA humanizer tell-audit: removed a "navigating the well inspection process" opener; cut a rule-of-three list of inspector qualifications down to the two that matter; replaced "it's worth noting" with the direct claim. -->
 
-By the WellWater HQ team
-
 A well water inspection costs $150 to $900 in 2026, with most homeowners paying around $450. A basic visual inspection with flow-rate testing runs $150 to $300, while a comprehensive inspection with a full lab water panel runs $400 to $800. Where you land depends on scope, not just location.
 
 Well depth, well type, and how many contaminants you test for all move the price. A shallow dug well with a simple bacteria and nitrate test costs far less than a deep drilled well getting a full metals-and-VOC panel plus a mechanical inspection of the pump and pressure system.
