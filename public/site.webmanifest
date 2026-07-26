@@ -1,0 +1,20 @@
+{
+  "name": "WellWater HQ",
+  "short_name": "WellWater HQ",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    }
+  ],
+  "theme_color": "#EE9D3D",
+  "background_color": "#F7FAFB",
+  "display": "browser",
+  "start_url": "/"
+}
