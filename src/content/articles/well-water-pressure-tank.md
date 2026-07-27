@@ -1,6 +1,6 @@
 ---
 title: "Well water pressure tank: sizing and setup guide"
-description: ""
+description: "Tank size is set by drawdown, not gallon rating: use 1 gallon per GPM of pump flow, times roughly four for total capacity."
 keyword: "well water pressure tank"
 publishDate: 2026-07-23
 ---

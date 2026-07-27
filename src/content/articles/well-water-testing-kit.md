@@ -1,6 +1,6 @@
 ---
 title: "Well Water Testing Kits: What They Actually Test"
-description: ""
+description: "Home test strips catch pH and hardness but miss bacteria and nitrate, the two the EPA prioritizes for annual well testing."
 keyword: "well water testing kit"
 publishDate: 2026-07-26
 ---

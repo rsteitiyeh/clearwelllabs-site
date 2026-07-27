@@ -1,6 +1,6 @@
 ---
 title: "Well water pump cost: 2026 price guide"
-description: ""
+description: "Well pump replacement runs $975 to $2,827 in 2026. See how depth and pump type change the price before you call a contractor."
 keyword: "well water pump cost"
 publishDate: 2026-07-23
 ---

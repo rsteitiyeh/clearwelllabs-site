@@ -1,6 +1,6 @@
 ---
 title: "Well water softener system: sizing, salt vs salt-free"
-description: ""
+description: "See the grain sizing formula for well water softeners, worked for a 4-person household once iron is added to the total."
 keyword: "well water softener system"
 publishDate: 2026-07-23
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Whole House Well Water Filtration System: Sizing and Cost"
-description: ""
+description: "Size a whole house well filter to your peak GPM demand, with installed cost by tier ranging from $500 to $6,500 or more."
 keyword: "whole house well water filtration system"
 publishDate: 2026-07-24
 ---
