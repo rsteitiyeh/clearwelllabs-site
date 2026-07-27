@@ -7,7 +7,7 @@ const articles = (await getCollection('articles', ({ data }) => !data.draft))
   .sort((a, b) => +b.data.publishDate - +a.data.publishDate);
 const fmt = (d: Date) => d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
 ---
-<Base title={`Articles | ${site.BRAND}`} description={`All articles from ${site.BRAND}.`}>
+<Base title={`Articles`} description={`All articles from ${site.BRAND}.`}>
 <header class="nav">
     <a class="brand" href="/"><span class="drop"></span>WellWater <b>HQ</b></a>
     <nav aria-label="Main navigation">
