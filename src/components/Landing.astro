@@ -22,9 +22,6 @@ const homeGuides = (await getCollection('articles', ({ data }) => !data.draft))
   description="Independent, source-cited guides to private well water testing: coliform, nitrate, arsenic, lead, and PFAS, plus a free test selector and cost ranges."
 >
   <Fragment slot="head">
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
     <!-- seo-org-block: entity anchor. Without an Organization node a search or
          answer engine has no machine-readable identity for this brand at all. -->
     <script type="application/ld+json" set:html={JSON.stringify({
