@@ -8,8 +8,6 @@ publishDate: 2026-07-24
 <!-- QA info-gain: (1) a fully worked peak-flow sizing example for a 3-bathroom household running two fixtures at once, carried through to a GPM number; (2) a three-tier cost breakdown by treatment complexity (sediment-only, two-stage, full multi-contaminant) instead of one blended range, which is what most competing pages give. -->
 <!-- QA humanizer tell-audit: cut a "not just convenience" negative parallelism from the opening; removed "boasts a flow rate of" in favor of a stated number; trimmed a three-adjective stack describing sediment. -->
 
-# Whole House Well Water Filtration System: Sizing and Cost
-
 By the WellWater HQ team
 
 A whole house well water filtration system treats water at the point it enters your home, before it reaches any fixture, so every tap, shower, and appliance gets the same treated water. Sizing runs on your peak flow rate in gallons per minute; cost runs on how many contaminants your lab report actually flags, from about $500 for a single sediment stage to $6,500 or more for a full multi-stage setup with iron, carbon, and disinfection.
