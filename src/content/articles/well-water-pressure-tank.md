@@ -8,8 +8,6 @@ publishDate: 2026-07-23
 <!-- QA info-gain: (1) the drawdown math worked all the way through with the "multiply by four" rule most tank-sizing pages mention without ever showing the arithmetic; (2) the pre-charge PSI distinction between low-pressure (30/50) and high-pressure (40/60) switch setups, where the standard "2 psi below cut-in" advice actually under-charges a 40/60 system. -->
 <!-- QA humanizer tell-audit: cut a "when it comes to pressure tanks" opener; removed a symmetrical two-clause sentence pattern repeated three times in the sizing section; replaced "ensuring optimal performance" with a plain statement of what happens if you skip the step. -->
 
-# Well water pressure tank: sizing and setup guide
-
 By the WellWater HQ team
 
 A well pressure tank is sized by drawdown, the usable water it delivers between pump cycles, not by its gallon rating. The working rule is 1 gallon of drawdown per GPM of pump flow, and since only about a quarter of a tank's volume is usable drawdown, you multiply that number by roughly four to get the tank size you actually need.
