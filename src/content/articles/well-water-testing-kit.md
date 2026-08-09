@@ -8,8 +8,6 @@ publishDate: 2026-07-26
 <!-- QA info-gain: (1) a side-by-side table mapping the specific contaminants a strip kit reads against what a certified lab panel reads, instead of a vague "kits are less accurate" line; (2) the explicit gap between what most drugstore strip kits test (10 to 20 mostly aesthetic parameters) and what the EPA actually tells private well owners to test for every year, which most kit-comparison pages never connect. -->
 <!-- QA humanizer tell-audit: cut a "not just a box of strips" negative parallelism; removed "boasts 17 test parameters" marketing phrasing in favor of naming what those parameters are; shortened a stacked-adjective sentence about lab turnaround. -->
 
-# Well Water Testing Kits: What They Actually Test
-
 By the WellWater HQ team
 
 A well water testing kit is usually a set of chemically treated strips that change color for pH, hardness, chlorine, iron, and a handful of other aesthetic markers, read against a color chart in under a minute. What most kits do not reliably test is the two things that matter most for health: total coliform bacteria and nitrate, both of which need lab-grade methods to produce a number you can trust.
