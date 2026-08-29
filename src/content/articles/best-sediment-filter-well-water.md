@@ -5,9 +5,6 @@ keyword: "best sediment filter for well water"
 publishDate: 2026-07-17
 ---
 
-<!-- QA info-gain: (1) a staged-filtration path (50-micron spin-down ahead of a 5-micron cartridge) most single-filter buying guides skip, which is the actual fix for a sandy well; (2) a direct answer on what a sediment filter does NOT remove (iron, bacteria, hardness) tied to the EPA's own contaminant-testing table, since most "best filter" roundups never mention the limits. -->
-<!-- QA humanizer tell-audit: removed a "when it comes to sediment" opener; cut a three-item adjective stack describing "gritty, cloudy, discolored" water down to one word; replaced a vague "experts recommend" line with the named source. -->
-
 The best sediment filter for well water is sized to your flow rate and sediment load, not picked by brand. Most wells do well with a 5-micron cartridge in a 4.5 by 20 inch housing; heavy sediment needs a coarser pre-filter stage first, and fine 1-micron filtration works best right before a UV system.
 
 Micron rating and gallons-per-minute capacity determine performance, not price. A filter rated too fine for a sandy well clogs in hours and starves your fixtures of pressure. One rated too coarse lets grit through to your water heater, washing machine, and faucet aerators.

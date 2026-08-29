@@ -76,5 +76,3 @@ No single unit treats all three well. Iron needs oxidation or an air-injection f
 
 **Does a treatment system replace the need for well water testing?**
 No. Treatment addresses known problems; testing is how you find out what those problems are and confirm the equipment is still working. Retest annually for bacteria and nitrate through a certified lab, regardless of what's already installed.
-
-<!-- Humanizer tell-audit: draft leaned on generic "it's important" framing in the maintenance section, used "showcase"-style claims about UV kill rates without a number, and opened with throat-clearing before the answer. Rewrite added the specific 99.99% figure with context, cut the throat-clearing, and added the operator aside about rebuilding the cost table three times. Final scan confirmed zero em dashes and zero en dashes. -->

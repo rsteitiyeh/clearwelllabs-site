@@ -1,12 +1,6 @@
 ---
 title: "Manganese in Well Water: Black Stains and How to Fix Them"
-description: "<!-- QA info-gain: (1) the explicit distinction between manganese's cosmetic secondary standard (0.05 mg/L, staining) and its separate, much higher health"
-keyword: "manganese in well water"
-publishDate: 2026-08-25
----
-
-<!-- QA info-gain: (1) the explicit distinction between manganese's cosmetic secondary standard (0.05 mg/L, staining) and its separate, much higher health advisory number (0.3 mg/L, neurological), which most pages collapse into a single confusing figure; (2) a same-page comparison to iron staining, since the two are frequently confused by well owners looking at black versus orange stains without knowing which metal they're seeing. -->
-<!-- QA humanizer tell-audit: cut an opening line calling manganese "a lesser-known well water villain"; removed "it's essential to understand" before the health advisory figure; replaced "experts recommend testing" with the specific EPA source recommending it. -->
+description: "
 
 # Manganese in Well Water: Black Stains and How to Fix Them
 

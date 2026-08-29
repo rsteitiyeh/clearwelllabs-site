@@ -5,9 +5,6 @@ keyword: "well water softener system"
 publishDate: 2026-07-23
 ---
 
-<!-- QA info-gain: (1) a fully worked sizing example we computed ourselves (4-person household, 15 GPG hardness, 1 ppm iron) showing the iron-adjustment math most sizing pages mention but never carry through to a number; (2) the NSF certification gap made explicit: salt-based softeners require NSF/ANSI 44, salt-free conditioners have no equivalent performance standard, a distinction most comparison pages blur. -->
-<!-- QA humanizer tell-audit: cut a "not just a nice-to-have" negative parallelism; removed a three-adjective stack describing hard water symptoms; replaced "boasts a grain capacity of" with a plain stated number. -->
-
 By the WellWater HQ team
 
 A well water softener is sized to your water's hardness in grains per gallon, your household's daily water use, and your iron level, not just the number of people in the house. Salt-based systems actually remove hardness through ion exchange and handle any hardness level; salt-free conditioners only prevent scale buildup and lose reliability above roughly 10 to 15 grains per gallon.

@@ -1,12 +1,6 @@
 ---
 title: "Water Softener vs. Water Filter: Which Does Your Well Need"
-description: "<!-- QA info-gain: (1) a decision table that maps specific lab report values (hardness in GPG, iron in ppm, turbidity, taste/odor complaints) directly to"
-keyword: "water softener vs water filter"
-publishDate: 2026-08-11
----
-
-<!-- QA info-gain: (1) a decision table that maps specific lab report values (hardness in GPG, iron in ppm, turbidity, taste/odor complaints) directly to the correct equipment, rather than a generic "it depends" answer; (2) a worked two-problem scenario showing exactly how softener and filter sequence together when a well has both hardness and iron, which most comparison pages treat as an either/or choice instead of a combination. -->
-<!-- QA humanizer tell-audit: cut a "not just about comfort" negative parallelism from the opening; removed "features advanced ion-exchange technology" marketing phrasing; replaced a vague "many well owners assume" opener with the specific misconception being corrected. -->
+description: "
 
 # Water Softener vs. Water Filter: Which Does Your Well Need
 

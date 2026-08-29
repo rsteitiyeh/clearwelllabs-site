@@ -1,12 +1,6 @@
 ---
 title: "Submersible vs. Jet Pump: Which Is Right for Your Well"
-description: "<!-- QA info-gain: (1) the specific depth crossover point (roughly 25 feet, where jet pumps stop being the practical choice) explained mechanically, why"
-keyword: "submersible vs jet pump"
-publishDate: 2026-08-21
----
-
-<!-- QA info-gain: (1) the specific depth crossover point (roughly 25 feet, where jet pumps stop being the practical choice) explained mechanically, why suction has a physical limit that pushing doesn't, instead of a bare "it depends on depth" answer; (2) a maintenance-access tradeoff table most comparison pages skip in favor of only comparing depth and cost. -->
-<!-- QA humanizer tell-audit: cut a "when it comes to choosing a pump" opening; removed "boasts superior efficiency" describing submersible pumps; replaced a generic "consult a professional" closer with a specific decision rule. -->
+description: "
 
 # Submersible vs. Jet Pump: Which Is Right for Your Well
 

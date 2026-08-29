@@ -1,12 +1,6 @@
 ---
 title: "Acidic Well Water: Causes, Testing, and Correction"
-description: "<!-- QA info-gain: (1) a pH-band table tying specific ranges to specific corrosion outcomes and the correct fix for each band, instead of a single generic"
-keyword: "acidic well water"
-publishDate: 2026-08-15
----
-
-<!-- QA info-gain: (1) a pH-band table tying specific ranges to specific corrosion outcomes and the correct fix for each band, instead of a single generic "low pH is bad" statement; (2) the explicit calcite-vs-soda-ash decision line at pH 6.0, sourced to neutralizer manufacturer specs, which most competing pages skip in favor of "install a neutralizer" without saying which kind. -->
-<!-- QA humanizer tell-audit: cut an opening line framing acidic water as a "hidden danger lurking in your pipes"; removed a rule-of-three list of adjectives describing corrosion damage; replaced "it's important to note that pH is not regulated" with a direct statement of the actual regulatory status. -->
+description: "
 
 # Acidic Well Water: Causes, Testing, and Correction
 

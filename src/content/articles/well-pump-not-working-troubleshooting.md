@@ -1,12 +1,6 @@
 ---
 title: "Well Pump Not Working: A Troubleshooting Guide"
-description: "<!-- QA info-gain: (1) a diagnostic order (breaker, then pressure switch, then tank) built around what a homeowner can safely check versus what requires"
-keyword: "well pump not working"
-publishDate: 2026-08-20
----
-
-<!-- QA info-gain: (1) a diagnostic order (breaker, then pressure switch, then tank) built around what a homeowner can safely check versus what requires an electrician, instead of a flat list of possible causes with no sequence; (2) the specific Schrader-valve test for a waterlogged tank, a concrete first-hand-style diagnostic step most competing pages describe vaguely as "check the tank." -->
-<!-- QA humanizer tell-audit: cut a dramatic opener about "the dreaded moment the water stops"; removed "it's crucial to note" before the electrical safety warning; replaced a rule-of-three adjective list describing pump failure symptoms with the actual specific symptoms. -->
+description: "
 
 # Well Pump Not Working: A Troubleshooting Guide
 

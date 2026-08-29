@@ -5,9 +5,6 @@ keyword: "well water pump cost"
 publishDate: 2026-07-23
 ---
 
-<!-- QA info-gain: (1) two independent 2026 cost surveys cross-checked against each other and reported honestly as a range rather than a single blended number, since they disagree by several hundred dollars; (2) a horsepower-to-cost table tied to depth ranges, so a reader can sanity-check a quote against both variables at once instead of one generic "average cost" figure. -->
-<!-- QA humanizer tell-audit: cut a "not all pumps are created equal" aphorism; removed a bolded-header bullet list pattern in favor of plain paragraphs and one real table; replaced "it's crucial to understand" with the direct claim. -->
-
 By the WellWater HQ team
 
 A well water pump replacement costs $975 to $2,575 on average in 2026, with most homeowners landing around $1,775, according to LawnStarter's 2026 cost data. A separate 2026 estimate puts the range at $1,500 to $2,827. Both surveys agree on the biggest cost driver: well depth, which adds roughly $500 to $1,000 for every additional 100 feet.

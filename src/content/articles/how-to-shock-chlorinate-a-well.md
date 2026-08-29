@@ -5,9 +5,6 @@ keyword: "shock chlorinate a well"
 publishDate: 2026-08-07
 ---
 
-<!-- QA info-gain: (1) a reproduced subset of the CDC's actual bleach-volume table by casing diameter and depth, worked into a usable snippet table, instead of the vague "add a gallon of bleach" instructions most blog posts give; (2) an explicit safety block placed before the steps, covering electrical shutoff, ventilation, and softener bypass together in one place, which most guides scatter through the article or skip. -->
-<!-- QA humanizer tell-audit: cut a dramatic opening about "invisible dangers lurking in your well"; removed "ensuring your family's safety" -ing framing; replaced a generic "always consult a professional" closer with a specific condition for when to call one. -->
-
 By the WellWater HQ team
 
 Shock chlorinating a well means flooding the well and household plumbing with a strong chlorine bleach solution, holding it in the system for at least 12 hours, then flushing it out. It's the standard fix for a positive coliform bacteria test, a new well, a well that's been serviced or repaired, or a well that's been flooded, and it's a job most well owners can do themselves with careful prep and the right bleach volume for their well's depth and casing diameter.

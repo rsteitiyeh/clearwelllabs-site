@@ -1,12 +1,6 @@
 ---
 title: "Well Water Iron Stains: How to Remove and Prevent Them"
-description: "<!-- QA info-gain: (1) the specific chemistry distinction between removing an existing stain (acid-based cleaners) and preventing new ones (oxidation +"
-keyword: "well water iron stains"
-publishDate: 2026-08-17
----
-
-<!-- QA info-gain: (1) the specific chemistry distinction between removing an existing stain (acid-based cleaners) and preventing new ones (oxidation + filtration), which most pages blur together into one generic "get an iron filter" answer; (2) a named prevalence statistic from a state-level well survey instead of a vague "iron is common in well water" claim. -->
-<!-- QA humanizer tell-audit: cut a "let's dive into" transition before the removal section; removed a "boasts a strong track record" line describing oxidizing filters; replaced "many homeowners struggle with this issue" with a direct statement of what triggers staining. -->
+description: "
 
 # Well Water Iron Stains: How to Remove and Prevent Them
 

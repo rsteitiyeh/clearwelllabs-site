@@ -1,12 +1,6 @@
 ---
 title: "Nitrates in Well Water: Health Risks and How to Remove Them"
-description: "<!-- QA info-gain: (1) the explicit myth-bust that boiling water does not remove nitrate and actually concentrates it, sourced to a state health"
-keyword: "nitrates in well water"
-publishDate: 2026-08-12
----
-
-<!-- QA info-gain: (1) the explicit myth-bust that boiling water does not remove nitrate and actually concentrates it, sourced to a state health department, which most nitrate pages omit entirely; (2) a removal-technology table distinguishing reverse osmosis, anion exchange, and distillation by what each actually accomplishes, instead of a single blended "get a filter" recommendation. -->
-<!-- QA humanizer tell-audit: cut a fear-forward opening about "silent danger in your water"; removed "it's important to note" framing before the MCL figure; replaced a vague "health experts warn" line with the specific EPA source and number. -->
+description: "
 
 # Nitrates in Well Water: Health Risks and How to Remove Them
 

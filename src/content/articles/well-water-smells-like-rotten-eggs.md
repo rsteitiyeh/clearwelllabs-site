@@ -5,9 +5,6 @@ keyword: "well water smells like rotten eggs"
 publishDate: 2026-08-07
 ---
 
-<!-- QA info-gain: (1) the hot-water-only vs. cold-water vs. softener-only diagnostic logic turned into a usable troubleshooting checklist, instead of a generic "could be several things" answer; (2) a treatment-by-concentration table sourced to state health department and well-industry guidance, naming which technology works up to which hydrogen sulfide level in mg/L, a level of specificity most consumer pages skip. -->
-<!-- QA humanizer tell-audit: cut a "not just an unpleasant smell" negative parallelism; removed "boasts effective removal up to" marketing phrasing in favor of stated thresholds; trimmed a three-adjective stack describing the odor itself. -->
-
 By the WellWater HQ team
 
 A rotten egg smell in well water is almost always hydrogen sulfide gas (H2S), produced either by naturally occurring sulfur bacteria in the groundwater or well, or by a chemical reaction inside your water heater between its magnesium anode rod and sulfate in the water. Which one it is changes the fix: a water heater problem needs an anode swap or a heater flush, while a well or plumbing problem needs shock chlorination or a dedicated treatment system.

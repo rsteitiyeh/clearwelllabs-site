@@ -5,9 +5,6 @@ keyword: "coliform bacteria in well water"
 publishDate: 2026-08-04
 ---
 
-<!-- QA info-gain: (1) the total coliform vs. fecal coliform vs. E. coli distinction laid out as an explicit decision table tied to the EPA's actual regulatory framework (the Revised Total Coliform Rule), which most consumer pages blur into one generic "bacteria" scare; (2) a concrete next-step-by-result-type table instead of a single generic "call a professional" line. -->
-<!-- QA humanizer tell-audit: cut a fear-forward opening sentence that led with worst-case illness before the actual answer; removed "it's crucial to understand" framing; replaced a vague "experts recommend retesting" line with the specific EPA-sourced retest window. -->
-
 By the WellWater HQ team
 
 A positive total coliform test means bacteria got into your well or plumbing system somewhere, most often through a cracked casing, a loose well cap, or surface water intrusion, not necessarily that the water will make you sick. A positive E. coli or fecal coliform result is different: it points to fecal contamination and is treated as an immediate health risk requiring bottled or boiled water until the well is disinfected and retested clean.
