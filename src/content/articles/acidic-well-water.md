@@ -1,6 +1,9 @@
 ---
 title: "Acidic Well Water: Causes, Testing, and Correction"
-description: "
+description: "Acidic well water tests below 7.0 on the pH scale, and the EPA's secondary standard for drinking water recommends a range of 6.5 to 8.5."
+keyword: "acidic well water"
+publishDate: 2026-08-15
+---
 
 # Acidic Well Water: Causes, Testing, and Correction
 

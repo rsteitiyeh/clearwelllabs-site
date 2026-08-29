@@ -1,6 +1,9 @@
 ---
 title: "Submersible vs. Jet Pump: Which Is Right for Your Well"
-description: "
+description: "The choice mostly comes down to well depth. Jet pumps work well down to about 25 feet using suction alone, and can reach 80 to 110 feet with a two-pipe."
+keyword: "submersible vs jet pump"
+publishDate: 2026-08-21
+---
 
 # Submersible vs. Jet Pump: Which Is Right for Your Well
 

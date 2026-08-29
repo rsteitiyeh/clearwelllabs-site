@@ -1,6 +1,9 @@
 ---
 title: "Nitrates in Well Water: Health Risks and How to Remove Them"
-description: "
+description: "The EPA's enforceable limit for nitrate in drinking water is 10 milligrams per liter, measured as nitrogen, a threshold set specifically to protect."
+keyword: "nitrates in well water"
+publishDate: 2026-08-12
+---
 
 # Nitrates in Well Water: Health Risks and How to Remove Them
 

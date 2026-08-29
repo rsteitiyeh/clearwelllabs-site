@@ -1,6 +1,9 @@
 ---
 title: "Manganese in Well Water: Black Stains and How to Fix Them"
-description: "
+description: "Manganese in well water causes black or dark brown stains on fixtures, laundry, and ice cubes once it's above the EPA's secondary guideline of 0.05 mg/L."
+keyword: "manganese in well water"
+publishDate: 2026-08-25
+---
 
 # Manganese in Well Water: Black Stains and How to Fix Them
 

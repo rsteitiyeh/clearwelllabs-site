@@ -1,6 +1,9 @@
 ---
 title: "Water Softener vs. Water Filter: Which Does Your Well Need"
-description: "
+description: "A water softener removes hardness through ion exchange and does nothing else; a water filter is the broader term for equipment that removes sediment."
+keyword: "water softener vs water filter"
+publishDate: 2026-08-11
+---
 
 # Water Softener vs. Water Filter: Which Does Your Well Need
 

@@ -1,6 +1,9 @@
 ---
 title: "Well Pump Not Working: A Troubleshooting Guide"
-description: "
+description: "No water from a well pump most often traces to one of three things: a tripped breaker, a failed pressure switch, or a waterlogged pressure tank."
+keyword: "well pump not working"
+publishDate: 2026-08-20
+---
 
 # Well Pump Not Working: A Troubleshooting Guide
 

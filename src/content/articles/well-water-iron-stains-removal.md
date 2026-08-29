@@ -1,6 +1,9 @@
 ---
 title: "Well Water Iron Stains: How to Remove and Prevent Them"
-description: "
+description: "Orange-brown stains on sinks, tubs, and laundry come from dissolved iron in well water that turns solid the moment it hits air."
+keyword: "well water iron stains"
+publishDate: 2026-08-17
+---
 
 # Well Water Iron Stains: How to Remove and Prevent Them
 
